@@ -1,0 +1,13 @@
+com\xmlmanagement\service\XmlValidation.class
+com\xmlmanagement\service\ReadSpecificElements.class
+com\xmlmanagement\service\TxtToXmlConverter.class
+com\xmlmanagement\service\XsdGenerator$MySchemaOutputResolver.class
+com\xmlmanagement\model\Lines.class
+com\xmlmanagement\model\Line.class
+com\xmlmanagement\model\Statistics.class
+com\xmlmanagement\service\XsdGenerator.class
+com\xmlmanagement\XmlManagement.class
+com\xmlmanagement\model\Paragraph.class
+com\xmlmanagement\model\Chapter.class
+com\xmlmanagement\model\Book.class
+com\xmlmanagement\service\CalculateStatistics.class
